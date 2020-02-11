@@ -26,7 +26,6 @@ cats.each do |cat|
     end
 end
 
-
 u1 = User.create(username: 'Steven', password: 'test')
 u2 = User.create(username: 'Tony', password: 'testing')
 u3 = User.create(username: 'Lee', password: '123')
