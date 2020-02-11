@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 source "https://rubygems.org"
-
 gem 'activerecord', '~>5.2.1'
 gem 'sinatra-activerecord'
 gem 'rake'
@@ -10,3 +9,5 @@ gem 'pry'
 
 #CLI gem
 gem "tty-prompt"
+gem 'rest-client'
+gem 'json'

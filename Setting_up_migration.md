@@ -22,4 +22,3 @@ Issues students face during these set up.
 -setting up the models properly
 -If they pushed to github and they don't see the sqlite file, this is due to the file cant be uploaded to github so the over partner just need to seed the file again.
 -bundle install issue where a student miss type a gem name and bundle installed. migration and seed work but during each process error messages would come up. to fix bundle installation run [ bundle clean --force ]   https://bundler.io/man/bundle-clean.1.html 
-
